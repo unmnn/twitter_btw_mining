@@ -26,7 +26,7 @@ By analyzing the short messages from the politicians, we aim to answer the follo
 5. **Which politician is polarizing**, i.e., incorporates many _positive_ or _negative_ words?
 6. **Which politicians are similar** with respect to their word usage? 
 
-To reproduce the analysis, you can download the complete R code [here](?).
+To reproduce the analysis, you can download the complete R code [here](https://github.com/unmnn/twitter_btw_mining).
 
 Before we start, let's check which party frontruner actually does have a Twitter account.
 The bad news first: the presumable winner of the elections, chancelor Angela Merkel, is not represented at the microblogging service.
