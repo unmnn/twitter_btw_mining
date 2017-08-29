@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+temporary/*
+*nb.html
+.Rproj
+.httr-oauth
